@@ -1,0 +1,1 @@
+Hi👋🏻I'm Mina Allahyari, 23 years old. I recently graduated in Computer Engineering and have been into frontend development since college. I'm familiar with Javascript, React.js, Typescript, Next.js and etc. I am excited to learn more and grow in this field😊
